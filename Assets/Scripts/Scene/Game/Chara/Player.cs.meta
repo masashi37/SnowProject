@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7f2ebd10320a30c4e9be8175e3f98232
+timeCreated: 1453951977
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snowBall: {fileID: 103244, guid: be6ac1da070ab964f8a5ea7ec1bc0b96, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
